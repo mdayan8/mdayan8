@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MD Ayan</h1>
+<h1 align="center">Hi 👋 there, I'm MD Ayan</h1>
 
 <div align="center">
 
@@ -48,4 +48,4 @@
 
 <!-- -------------------- Footer Quote -------------------- -->
 
-<p align="center"><i>“Legacy over likes. Let the code speak.”</i></p>
+<p align="center"><i>“Every skill you acquire doubles your odds of success”</i></p>
