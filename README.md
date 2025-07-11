@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD Ayan</h1>
 
 <div align="center">
-  <h1 align="center">Hi 👋, I'm MD Ayan</h1>
-
-<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=500&color=BB86FC&center=true&vCenter=true&lines=Founder+@+NURA+%26+RezumAI;Solopreneur;AI+Native+Builder;Data+Science+Student;AI+Researcher;20+y%2Fo+from+India)](https://git.io/typing-svg)
 
@@ -47,21 +44,3 @@
 ---
 
 <p align="center"><i>“Legacy over likes. Let the code speak.”</i></p>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=BB86FC&center=true&vCenter=true&lines=Founder+@+NURA+%26+RezumAI;Solopreneur;AI+Native+Builder;Data+Science+Student;AI+Researcher;20+y%2Fo+from+India)](https://git.io/typing-svg)
-
-</div>
-
-<!-- Intro Section -->
-<!-- You can add short intro about yourself later here if needed -->
-
----
-
-### 🌐 Connect with Me
-
-<div align="center">
-
-<a href="https://github.com/mdayan8" target="_blank">
-  <img src="https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://x.com/mdayan24X" target="_blank">
