@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm MD Ayan</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Solopreneur;AI+Native+Builder;Data+Science+Student;AI+Researcher&center=true&size=25">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Solopreneur;AI+Native+Builder;Data+Science+Student;AI+Researcher;20+y/o+Founder&center=true&size=24">
 </h3>
 
-<p align="center">
-  Founder @ NURA & RezumAI | Building Cognitive AI Tools | 20 y/o 🚀
-</p>
+<p align="center">Founder @ NURA & RezumAI | Building Cognitive AI Tools 🚀</p>
 
 ---
 
 ### 🌐 Socials
 
 <p align="center">
-  <a href="https://github.com/mdayanbag"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://x.com/mdayan24X"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://github.com/mdayanbag"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://x.com/mdayan24X"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/adithya-s-kolavi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
@@ -31,7 +29,7 @@
 ### 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mdayanbag&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdayanbag&theme=react-dark" />
 </p>
 
 ---
@@ -39,9 +37,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mdayanbag&theme=highcontrast&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mdayanbag&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdayanbag&show_icons=true&theme=radical&hide_border=true" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdayanbag&theme=dark&hide_border=true" />
 </p>
 
 ---
